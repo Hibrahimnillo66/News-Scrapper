@@ -3,17 +3,6 @@
 Scraper is a a web app that lets users view and leave comments on the latest news from the New York Times.
 
 
-### deploying to Heroku
-```shell
-$ heroku login
-$ Email: <enter email>
-$ Password: <password>
-$ heroku create <enter app name>
-$ heroku addons:create mongolab
-$ git push heroku master
-```
-
-
 ## Programming/Scripting Languages
 ### Front-end
 - HTML, CSS (Bootstrap)
@@ -25,7 +14,7 @@ $ git push heroku master
 - templating engine: handlebars
 - database: MongoDB
 
-
 ## Links
+https://serene-beach-97561.herokuapp.com/saved
 
-
+https://github.com/Hibrahimnillo66/News-Scrapper
